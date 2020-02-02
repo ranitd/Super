@@ -1,4 +1,4 @@
-/* ranit delevkovitz 205781701 05 targil3*/
+
 #pragma once
 #ifndef Hanut
 #define HANUT_H
